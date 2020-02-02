@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding text on second line to test branches
 Test for merging divergent branches
 Test for rebasing
+Edit via Github.com
