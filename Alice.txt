@@ -4,3 +4,4 @@ Test for merging divergent branches
 Test for rebasing
 Editing Parent for pulling
 Test for Interactive Rebase
+Extra test for Interactive Rebase
