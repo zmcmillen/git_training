@@ -2,8 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding text on second line to test branches
 Test for merging divergent branches
 Test for rebasing
-<<<<<<< Updated upstream
-Edit via Github.com
-=======
-Test for stashing changes
->>>>>>> Stashed changes
+Resolved conflicts between local and parent
