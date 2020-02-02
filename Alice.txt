@@ -3,3 +3,4 @@ Adding text on second line to test branches
 Test for merging divergent branches
 Test for rebasing
 Editing Parent for pulling
+Changes for rewrite_history
